@@ -1,0 +1,13 @@
+{
+  "name": "rekram1-node-skills",
+  "private": true,
+  "description": "Personal agent skills for software development workflows",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rekram1-node/skills"
+  },
+  "scripts": {
+    "link": "./scripts/link-skills.sh",
+    "list": "./scripts/list-skills.sh"
+  }
+}
