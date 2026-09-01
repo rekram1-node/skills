@@ -17,6 +17,8 @@ Skip predictable bookkeeping such as version strings, lockfile churn, import mov
 
 ## Rhythm
 
+- Introduce each new change with `Step X of Y: <topic>` so the user can track progress through the selected topics.
+- Show the step label only when starting a new change. Don't repeat it while answering questions or going deeper on the current change.
 - Explain one change, then stop: what happened before, what happens now, and why it matters.
 - "Okay," "makes sense," or "got it" means continue to the next change.
 - A question means stay on that topic. Answer it directly and drill deeper only where the user is curious.
