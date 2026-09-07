@@ -5,6 +5,7 @@ Personal agent skills for software development workflows.
 ## Skills
 
 - [change-walkthrough](./skills/engineering/change-walkthrough/SKILL.md): Walk through code changes conversationally, one behavioral topic at a time.
+- [concept-walkthrough](./skills/engineering/concept-walkthrough/SKILL.md): Teach an unfamiliar concept, protocol, or system from the ground up, one step at a time.
 
 ## Install
 
