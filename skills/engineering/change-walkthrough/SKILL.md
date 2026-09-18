@@ -1,11 +1,11 @@
 ---
 name: change-walkthrough
-description: Use when the user wants a conversational, step-by-step walkthrough of code changes, with room to ask questions and choose where to go deeper.
+description: Use only when the user explicitly asks for an interactive, in-depth walkthrough of a specific PR, commit, or diff, examining changes one at a time with pauses for questions. Do not use for high-level summaries, general questions about changes, or ordinary requests to explain what changed.
 ---
 
 # Change Walkthrough
 
-Walk through changes at the user's pace, not as a full review dump.
+Walk through a specific PR, commit, or diff at the user's pace, starting with its high-level purpose and then getting into the implementation details one change at a time.
 
 ## Choose the Topics
 
